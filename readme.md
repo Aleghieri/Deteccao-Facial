@@ -1,0 +1,1 @@
+O objetivo dessa atividade é exercitar o tratamento de imagens; por meio de algumas ferramentas do python, eu consigo coletar a face do usuário e colocar os pontos de interesse: nariz, boca e olhos. A atividade é dividida em duas partes: a coleta e tratamento das faces e a segmentação dos dados da face, para mostrar apenas os pontos de interesse.
